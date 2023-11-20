@@ -1,5 +1,7 @@
 <fable>
   <page background="pngvOBhCpP2RapWbP6sa3QNuiC2oNx.jpg">
   <!-- CONTEÚDO DA FÁBULA -->
+
+       <agent x="40" y="350" width="500" height="100"></agent>
   </page>
 </fable>
