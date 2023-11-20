@@ -1,8 +1,7 @@
 <fable>
   <scene background="vOBhCpP2RapWbP6sa3QNuiC2oNx.jpg">
-
     <agent sprite="png-clipart-shrek-the-musical-dragon-princess-fiona-shrek-film-series-shrek-heroes-dragon.png" x="60" y="90" width="164" height="113" frame-count="6" fps="8" on-touch="up">
-    	<up sprite="run.png" x="60" y="90" width="164" height="113" frame-count="8" fps="8" />
+    	<up sprite="f384e8bf658598f.png" x="60" y="90" width="164" height="113" frame-count="8" fps="8" />
     </agent>
 
   </scene>
