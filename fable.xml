@@ -1,6 +1,6 @@
 <fable>
     <page background="bg.png" soundtrack="music.mp3".mp3">  
         <agent  text="descubra o segredo do:" font-size="22" color="green" x="40" y="400" width="500" height="100" />
-        <agent video="mov.mp4" x="50" y="50" width="300" height="300" draggable="true" />
+        <agent i="mov.mp4" x="50" y="50" width="300" height="300" draggable="true" />
     </page>
 </fable>
