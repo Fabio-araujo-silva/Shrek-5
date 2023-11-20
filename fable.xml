@@ -1,6 +1,6 @@
 <fable>
-  <scene background="bg.png">
-  <>
-
+    <page>
+      <scene background="bg.png">      
+    </page>
   </scene>
 </fable>
