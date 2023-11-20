@@ -1,7 +1,9 @@
 <fable>
-  <page background="pngvOBhCpP2RapWbP6sa3QNuiC2oNx.jpg">
-  <!-- CONTEÚDO DA FÁBULA -->
+  <scene background="vOBhCpP2RapWbP6sa3QNuiC2oNx.jpg">
 
-       <agent x="40" y="350" width="500" height="100"></agent>
-  </page>
+    <agent sprite="idle.png" x="60" y="90" width="164" height="113" frame-count="6" fps="8" on-touch="up">
+    	<up sprite="run.png" x="60" y="90" width="164" height="113" frame-count="8" fps="8" />
+    </agent>
+
+  </scene>
 </fable>
