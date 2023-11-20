@@ -1,5 +1,5 @@
 <fable>
     <page background="bg.png" soundtrack="music.mp3">  
         <agent  text="descubra o segredo do:" font-size="22" color="green" x="40" y="400" width="500" height="100" />
-        </page>
+    </page>
 </fable>
